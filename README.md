@@ -1,16 +1,16 @@
 # Anonymous
 
-#Welcome to Anonymous group
+# Welcome to Anonymous group
 
-#HACKED WEBSET
+# HACKED WEBSET
 
-#HACKED FACEBOOK
+# HACKED FACEBOOK
 
-#HACKED GMAIL 
+# HACKED GMAIL 
 
-#HACKED DDOS-AATACK
+# HACKED DDOS-AATACK
 
-#HACKED IP WEBSET
+# HACKED IP WEBSET
 
 INSTALL TOOL Anonymous
 
@@ -33,5 +33,5 @@ INSTALL TOOL Anonymous
 
 9===>> python Anonymous.pyc
 
-# هاكيد تونس 
-#RÔÙÀÎSSÎ
+# HACKED TUNISIE 
+# RÔÙÀÎSSÎ
